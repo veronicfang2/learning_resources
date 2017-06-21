@@ -1,5 +1,6 @@
 # learning_resources
-> 以下收录了常用的一些前端的学习和工具地址
+> 以下收录了自己常用的一些前端的学习和工具地址
+> `[github上面各种计算机相关的中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)`
 
 ## 1 常用的工具手册
 
@@ -38,3 +39,4 @@
   - [100+ 值得收藏的 Web 开发资源: https://zhuanlan.zhihu.com/p/22181655](https://zhuanlan.zhihu.com/p/22181655)
   - [来自百度的71款开源项目: http://www.cnblogs.com/kingboy2008/p/6117741.html](http://www.cnblogs.com/kingboy2008/p/6117741.html)
   - [Todd Motto github angular1.x相关项目: https://github.com/toddmotto](https://github.com/toddmotto)]
+  - [github开发者,寻找各种github大神和资源: https://githuber.cn/people/359395](https://githuber.cn/people/359395)
