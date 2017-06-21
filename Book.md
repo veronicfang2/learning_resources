@@ -13,11 +13,12 @@
   - [MDN文档: https://developer.mozilla.org/zh-CN/docs/Web](https://developer.mozilla.org/zh-CN/docs/Web)
   - [webstorm常用快捷键: http://blog.csdn.net/quincylk/article/details/18256697](http://blog.csdn.net/quincylk/article/details/18256697)
   
-  #### Jquery和CSS
+#### Jquery和CSS
+
   - [jquery相关API: http://api.jquery.com//](http://api.jquery.com/)
-  - [css hack速查表](http://www.hujuntao.com/web/css/css-hack-cheat-sheet.html)
-  - [css属性手册: http://css88.com/book/css/](http://css88.com/book/css/)
-  - [牢记的30个css选择器: https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+  - [css hack速查表](http://www.hujuntao.com/web/css/css-hack-cheat-sheet.html)
+  - [css属性手册: http://css88.com/book/css/](http://css88.com/book/css/)
+  - [牢记的30个css选择器: https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
  
   
  
