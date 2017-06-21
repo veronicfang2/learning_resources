@@ -34,5 +34,4 @@
 ## 4 优秀博客 
   - [100+ 值得收藏的 Web 开发资源: https://zhuanlan.zhihu.com/p/22181655](https://zhuanlan.zhihu.com/p/22181655)
   - [来自百度的71款开源项目: http://www.cnblogs.com/kingboy2008/p/6117741.html](http://www.cnblogs.com/kingboy2008/p/6117741.html)
-  - []()
   - [Todd Motto github angular1.x相关项目: https://github.com/toddmotto](https://github.com/toddmotto)]
