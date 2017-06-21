@@ -1,6 +1,6 @@
 # learning_resources
 > 以下收录了自己常用的一些前端的学习和工具地址
-> `[github上面各种计算机相关的中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)`
+> [github上面各种计算机相关的中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
 ## 1 常用的工具手册
 
