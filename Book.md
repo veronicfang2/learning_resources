@@ -15,7 +15,7 @@
   
 #### Jquery和CSS
 
-  - [jquery相关API: http://api.jquery.com//](http://api.jquery.com/)
+  - [jquery相关API: http://api.jquery.com//](http://api.jquery.com/)
   - [css hack速查表](http://www.hujuntao.com/web/css/css-hack-cheat-sheet.html)
   - [css属性手册: http://css88.com/book/css/](http://css88.com/book/css/)
   - [牢记的30个css选择器: https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
@@ -23,8 +23,8 @@
   
  
 ## 2 常用插件
-  
-  - [zeroClipBoard: https://github.com/zeroclipboard](https://github.com/zeroclipboard/zeroclipboard/blob/master/dist/ZeroClipboard.js)
+
+  - [zeroClipBoard: https://github.com/zeroclipboard](https://github.com/zeroclipboard/zeroclipboard/blob/master/dist/ZeroClipboard.js)
   - [日期插件-bootstrap-datepicker: https://bootstrap-datepicker.com](https://bootstrap-datepicker.com)
   - [日期插件-daterangepicker: http://www.daterangepicker.com/](http://www.daterangepicker.com)
   - [css的switch插件](http://www.bootcss.com/p/bootstrap-switch/)
