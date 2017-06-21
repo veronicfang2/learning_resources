@@ -12,6 +12,7 @@
   - [webstorm常用快捷键: http://blog.csdn.net/quincylk/article/details/18256697](http://blog.csdn.net/quincylk/article/details/18256697)
  
 ## 2 常用插件
+  
   - [zeroClipBoard: https://github.com/zeroclipboard](https://github.com/zeroclipboard/zeroclipboard/blob/master/dist/ZeroClipboard.js)
   - [日期插件-bootstrap-datepicker: https://bootstrap-datepicker.com](https://bootstrap-datepicker.com)
   - [日期插件-daterangepicker: http://www.daterangepicker.com/](http://www.daterangepicker.com)
@@ -25,13 +26,16 @@
 
 ## 3 angular相关资源
 ### angular1.x
-  - [各种angularjs插件: http://ngmodules.org/](http://ngmodules.org/)
-  - [Todd Motto github: https://github.com/toddmotto](https://github.com/toddmotto)
+  
+  - [各种angularjs插件: http://ngmodules.org/](http://ngmodules.org/)
+  - [Todd Motto github: https://github.com/toddmotto](https://github.com/toddmotto)
+
 ### angular2 +
 
 
 
 ## 4 优秀博客 
-  - [100+ 值得收藏的 Web 开发资源: https://zhuanlan.zhihu.com/p/22181655](https://zhuanlan.zhihu.com/p/22181655)
+  
+  - [100+ 值得收藏的 Web 开发资源: https://zhuanlan.zhihu.com/p/22181655](https://zhuanlan.zhihu.com/p/22181655)
   - [来自百度的71款开源项目: http://www.cnblogs.com/kingboy2008/p/6117741.html](http://www.cnblogs.com/kingboy2008/p/6117741.html)
-  - [Todd Motto github angular1.x相关项目: https://github.com/toddmotto](https://github.com/toddmotto)]
+  - [Todd Motto github angular1.x相关项目: https://github.com/toddmotto](https://github.com/toddmotto)]
