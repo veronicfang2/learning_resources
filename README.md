@@ -26,7 +26,6 @@
 
 ## 3 angular相关资源
 ### angular1.x
-  
   - [各种angularjs插件: http://ngmodules.org/](http://ngmodules.org/)
   - [Todd Motto github: https://github.com/toddmotto](https://github.com/toddmotto)
 
