@@ -6,7 +6,7 @@
 ## 1 常用的工具手册
 
   - [在线JSON解析工具: http://jsonviewer.stack.hu/](http://jsonviewer.stack.hu/)
-  - 在线markdown文档编写[http://md.phodal.com/](http://md.phodal.com/)
+  - [在线markdown文档编写: http://md.phodal.com/](http://md.phodal.com/)
   - [在线定制echart: http://echarts.baidu.com/builder.html](http://echarts.baidu.com/builder.html)
   - [各种免费的API接口: https://zhuanlan.zhihu.com/p/21320392?refer=passer](https://zhuanlan.zhihu.com/p/21320392?refer=passer)
   - [RGB和16进制颜色转换: http://tool.css-js.com/rgba.html](http://tool.css-js.com/rgba.html)
